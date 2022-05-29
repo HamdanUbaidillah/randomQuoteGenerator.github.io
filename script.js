@@ -12,7 +12,6 @@ let quotes = [
   '"Janganlah engkau berduka atas apa yang telah terjadi, karena tidak ada apapun di dunia ini yang abadi". -Imam Syafii',
   '"Tindakan menyalahkan hanya akan membuang waktu. Sebesar apapun kesalahan yang Anda timpakan ke orang lain, dan sebesar apapun Anda menyalahkannya, hal tersebut tidak akan mengubah Anda" -Wayne Dyer',
   '"Ambillah risiko yang lebih besar dari apa yang dipikirkan orang lain aman. Berilah perhatian lebih dari apa yang orang lain pikir bijak. Bermimpilah lebih dari apa yang orang lain pikir masuk akal" -Claude T. Bissell',
-  'Ambillah risiko yang lebih besar dari apa yang dipikirkan orang lain aman. Berilah perhatian lebih dari apa yang orang lain pikir bijak. Bermimpilah lebih dari apa yang orang lain pikir masuk akal" -Claude T. Bissell',
   '"Sukses adalah kemampuan untuk melangkah dari kegagalan tanpa hilang antusiasme." -Sir Winston Churchill.',
   '"Orang bijak belajar ketika mereka bisa. Orang bodoh belajar ketika mereka terpaksa." -Arthur Wellesley',
   '"Setiap perjuangan pasti ada hasilnya. Gagal memberi pelajaran, sukses memberi kebahagiaan."',
